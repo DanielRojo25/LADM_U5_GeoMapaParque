@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LADM_U5_GeoMapaParque</string>
+    <string name="estacionamiento">Estacionamiento</string>
+    <string name="estacionamiento_de_veh_culos_muy_amplio_para_los_visitantes_del_parque">Estacionamiento de vehículos muy amplio para los visitantes del parque.</string>
+    <string name="regresar">Regresar</string>
+    <string name="todo">TODO</string>
+</resources>
